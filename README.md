@@ -1,5 +1,5 @@
 # kaizen-case-1
-Kampanya Kod Üretimi
+Campaign Code Producing
 
 Kod açıklaması:
 
